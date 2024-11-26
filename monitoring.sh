@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Привет 26.11.2024
-
+# Test
 
 # Версия операционной системы
 os_version=$(cat /etc/os-release | grep "PRETTY_NAME" | cut -d '"' -f 2)
